@@ -5,7 +5,7 @@ namespace Tyuiu.BaldinAA.Sprint1.Task3.V9.Lib
     {
         public double ConvertMinutesToHours(int minutes)
         {
-            return (minutes/60)+0.5;
+            return (minutes/60);
         }
     }
 }
